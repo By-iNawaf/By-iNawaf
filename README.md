@@ -28,7 +28,7 @@
     My passion lies in automating digital experiences, building intuitive UIs, and creating reliable systems that just work.
 
 
-### روابط التواصل
+### Social Media
 
 - 🌐 GitHub: [Nawaf](https://github.com/By-iNawaf)
 - 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
