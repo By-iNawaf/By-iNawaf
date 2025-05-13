@@ -29,5 +29,4 @@
 
 ---
 
-**🤖 Discord Bot by [Nawaf](https://github.com/By-iNawaf)**  
 جميع الحقوق محفوظة © 2025
