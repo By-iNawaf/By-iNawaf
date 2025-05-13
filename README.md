@@ -4,7 +4,12 @@
 
   
   [![Profile Views]((https://cdn-icons-png.flaticon.com/512/25/25231.png))](https://github.com/By-iNawaf?tab=followers)
-  
+  <p align="center">
+  <a href="https://github.com/By-iNawaf">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" />
+  </a>
+</p>
+
 
     
   ### 💻 Programming Languages
