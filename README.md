@@ -2,8 +2,6 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Senior+Developer+%26+Security+Expert;Game+Developer+%26+UI%2FUX+Designer;Full-Stack+%26+DevOps+Engineer)](https://git.io/typing-svg)
 
-  
-  [![Profile Views]((https://cdn-icons-png.flaticon.com/512/25/25231.png))](https://github.com/By-iNawaf?tab=followers)
   <p align="center">
   <a href="https://github.com/By-iNawaf">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" />
