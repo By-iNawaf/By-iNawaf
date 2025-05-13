@@ -3,8 +3,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Senior+Developer+%26+Security+Expert;Game+Developer+%26+UI%2FUX+Designer;Full-Stack+%26+DevOps+Engineer)](https://git.io/typing-svg)
 
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=wickstudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/i-Close)
-  [![GitHub Followers](https://img.shields.io/github/followers/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/i-Close?tab=followers)
+  [![Profile Views](https://komarev.com/ghpvc/?username=wickstudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/By-iNawaf)
+  [![GitHub Followers](https://img.shields.io/github/followers/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/By-iNawaf?tab=followers)
   [![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/i-Close?tab=repositories)
   
   ### 🌍 Find Me Around The Web
@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="https://wick-studio.com">
+        <a href="https://github.com/By-iNawaf">
           <img src="https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
         </a>
     </tr>
