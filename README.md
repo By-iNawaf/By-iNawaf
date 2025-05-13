@@ -29,7 +29,8 @@
 
   <details open>
     <summary><h2>📥 Social Media</h2></summary>
-> 🌐 GitHub: [Nawaf](https://github.com/By-iNawaf)
+    
+  🌐 GitHub: [Nawaf](https://github.com/By-iNawaf)
   💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
 
 ---
