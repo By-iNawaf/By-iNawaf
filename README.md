@@ -27,11 +27,10 @@
     I code in multiple languages including JavaScript, Python, C#, and TypeScript — always aiming to write clean, scalable, and optimized systems.
     My passion lies in automating digital experiences, building intuitive UIs, and creating reliable systems that just work.
 
-
-### 📥 Social Media
-
-- 🌐 GitHub: [Nawaf](https://github.com/By-iNawaf)
-- 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
+  <details open>
+    <summary><h2>📥 Social Media</h2></summary>
+> 🌐 GitHub: [Nawaf](https://github.com/By-iNawaf)
+  💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
 
 ---
 
