@@ -21,7 +21,13 @@
   <details open>
     <summary><h2>👨‍💻 About Me</h2></summary>
     
-  > As the CEO of Wick Studio, I lead a team of passionate developers in creating innovative digital solutions. With a deep understanding of both development and cybersecurity, I bridge the gap between creativity and security.
+  > I'm a self-driven developer specialized in building advanced Discord bots, full-stack applications, and custom automation tools.
+With deep experience in both development and cybersecurity, I combine creativity with code to deliver efficient and secure solutions.
+
+I code in multiple languages including JavaScript, Python, C#, and TypeScript — always aiming to write clean, scalable, and optimized systems.
+My passion lies in automating digital experiences, building intuitive UIs, and creating reliable systems that just work.
+
+
 ### روابط التواصل
 
 - 🌐 GitHub: [Nawaf](https://github.com/By-iNawaf)
