@@ -8,7 +8,6 @@
   [![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/By-iNawaf?tab=repositories)
   
 
-    <summary><h2>🛠️ Technologies & Skills</h2></summary>
     
   ### 💻 Programming Languages
   
