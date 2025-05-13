@@ -5,20 +5,9 @@
   
   [![Profile Views](https://komarev.com/ghpvc/?username=wickstudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/By-iNawaf)
   [![GitHub Followers](https://img.shields.io/github/followers/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/By-iNawaf?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/i-Close?tab=repositories)
+  [![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/By-iNawaf?tab=repositories)
   
-  ### 🌍 Find Me Around The Web
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://github.com/By-iNawaf">
-          <img src="https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-        </a>
-    </tr>
-  </table>
 
-  <details open>
     <summary><h2>🛠️ Technologies & Skills</h2></summary>
     
   ### 💻 Programming Languages
@@ -34,3 +23,12 @@
     <summary><h2>👨‍💻 About Me</h2></summary>
     
   > As the CEO of Wick Studio, I lead a team of passionate developers in creating innovative digital solutions. With a deep understanding of both development and cybersecurity, I bridge the gap between creativity and security.
+### روابط التواصل
+
+- 🌐 GitHub: [Nawaf](https://github.com/By-iNawaf)
+- 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
+
+---
+
+**🤖 Discord Bot by [Nawaf](https://github.com/By-iNawaf)**  
+جميع الحقوق محفوظة © 2025
