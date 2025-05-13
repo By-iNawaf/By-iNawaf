@@ -22,10 +22,9 @@
     <summary><h2>👨‍💻 About Me</h2></summary>
     
   > I'm a self-driven developer specialized in building advanced Discord bots, full-stack applications, and custom automation tools.
-With deep experience in both development and cybersecurity, I combine creativity with code to deliver efficient and secure solutions.
-
-I code in multiple languages including JavaScript, Python, C#, and TypeScript — always aiming to write clean, scalable, and optimized systems.
-My passion lies in automating digital experiences, building intuitive UIs, and creating reliable systems that just work.
+    With deep experience in both development and cybersecurity, I combine creativity with code to deliver efficient and secure solutions.
+    I code in multiple languages including JavaScript, Python, C#, and TypeScript — always aiming to write clean, scalable, and optimized systems.
+    My passion lies in automating digital experiences, building intuitive UIs, and creating reliable systems that just work.
 
 
 ### روابط التواصل
