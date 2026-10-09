@@ -3,7 +3,7 @@
 <img src="/header.svg" width="100%" alt=""/>
 
 <a href="https://github.com/By-iNawaf"><img src="/btn-github.svg" height="54" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/YOUR_USER_ID"><img src="/btn-discord.svg" height="54" alt="Discord"/></a>
+<a href="https://discord.com/users/732540761295421480"><img src="/btn-discord.svg" height="54" alt="Discord"/></a>
 
 <br/><br/>
 <img src="/divider.svg" width="80%" alt=""/>
