@@ -8,11 +8,11 @@
 <a href="https://discord.com/users/YOUR_USER_ID"><img src="https://img.shields.io/badge/Discord-Contact_Me-00FF88?style=for-the-badge&logo=discord&logoColor=00FF88&labelColor=0D1117"/></a>
 <img src="https://komarev.com/ghpvc/?username=By-iNawaf&style=for-the-badge&color=00FF88&labelColor=0D1117&label=VISITORS"/>
 
-<img src="assets/divider.svg" width="80%"/>
+<img src="/divider.svg" width="80%"/>
 
-<img src="assets/terminal.svg" width="85%" alt="terminal"/>
+<img src="/terminal.svg" width="85%" alt="terminal"/>
 
-<img src="assets/divider.svg" width="80%"/>
+<img src="/divider.svg" width="80%"/>
 
 ## `{ TECH STACK }`
 
@@ -20,13 +20,13 @@
 
 <br/><br/>
 
-<img src="assets/skills.svg" width="80%" alt="skills"/>
+<img src="/skills.svg" width="80%" alt="skills"/>
 
-<img src="assets/divider.svg" width="80%"/>
+<img src="/divider.svg" width="80%"/>
 
 ## `{ BOT SECURITY }`
 
-<img src="assets/shield.svg" width="80%" alt="protection"/>
+<img src="/shield.svg" width="80%" alt="protection"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="assets/divider.svg" width="80%"/>
+<img src="/divider.svg" width="80%"/>
 
 ## `{ ABOUT ME }`
 
@@ -67,6 +67,6 @@ My passion lies in automating digital experiences and building reliable systems 
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<img src="/footer.svg" width="100%" alt="footer"/>
 
 </div>
