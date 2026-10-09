@@ -6,7 +6,7 @@
 <a href="https://discord.com/users/732540761295421480"><img src="/btn-discord.svg" height="54" alt="Discord"/></a>
 
 <br/><br/>
-<img src="/divider.svg" width="80%" alt=""/>
+<img src="ش/divider.svg" width="80%" alt=""/>
 <br/>
 
 <img src="/terminal.svg" width="80%" alt=""/>
