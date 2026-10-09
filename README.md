@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt=""/>
+<img src="/header.svg" width="100%" alt=""/>
 
 <a href="https://github.com/By-iNawaf"><img src="assets/btn-github.svg" height="54" alt="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://discord.com/users/YOUR_USER_ID"><img src="assets/btn-discord.svg" height="54" alt="Discord"/></a>
 
 <br/><br/>
-<img src="assets/divider.svg" width="80%" alt=""/>
+<img src="/divider.svg" width="80%" alt=""/>
 <br/>
 
-<img src="assets/terminal.svg" width="80%" alt=""/>
+<img src="/terminal.svg" width="80%" alt=""/>
 
 <br/>
-<img src="assets/divider.svg" width="80%" alt=""/>
+<img src="/divider.svg" width="80%" alt=""/>
 <br/>
 
-<img src="assets/features.svg" width="80%" alt=""/>
+<img src="/features.svg" width="80%" alt=""/>
 
 <br/>
-<img src="assets/divider.svg" width="80%" alt=""/>
+<img src="/divider.svg" width="80%" alt=""/>
 <br/>
 
-<img src="assets/shield.svg" width="80%" alt=""/>
+<img src="/shield.svg" width="80%" alt=""/>
 
 <br/><br/>
 
@@ -46,6 +46,6 @@
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+<img src="/footer.svg" width="100%" alt=""/>
 
 </div>
