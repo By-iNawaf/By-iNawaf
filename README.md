@@ -1,28 +1,29 @@
 <div align="center">
-  <br>
-  <div style="border: 1px solid #30363d; border-radius: 20px; padding: 40px 30px; max-width: 550px; margin: 0 auto; background: linear-gradient(180deg, #161b22 0%, #0d1117 100%); box-shadow: 0 10px 40px rgba(0,0,0,0.6);">
-    
-    <div style="font-size: 45px; margin-bottom: 15px; letter-spacing: 5px;">🎬 ✨ 🍵</div>
-    
-    <h2 style="margin: 0; color: #24d1ba; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 1.5px; font-weight: 800; text-transform: uppercase;">
-      Ultimate Chill Mode
-    </h2>
-        <p style="color: #8b949e; font-size: 16px; font-family: sans-serif; margin-top: 20px; line-height: 1.8;">
-      "تبحث عن مقطع هادي ومضحك؟<br>
-      الفخامة الحقيقية يا صديقي هي أن تتصفح هذا الملف<br>
-      <b>بدون صور، بدون ملفات، وبدون استهلاك بيانات...</b><br>
-      كل ما في الأمر هو <span style="color: #24d1ba; font-weight: bold;">رابط واحد</span> يأخذك للهدوء النفسي 😂🧘‍♂️"
-    </p>
-    
-    <hr style="border: 0; border-top: 1px solid #21262d; margin: 30px 0;">
-    
-    <a href="https://www.youtube.com/watch?v=5qap5aO4i9A" target="_blank" style="display: inline-block; padding: 16px 40px; background: linear-gradient(90deg, #24d1ba, #16a394); color: #0d1117; text-decoration: none; border-radius: 50px; font-weight: 800; font-family: sans-serif; font-size: 16px; box-shadow: 0 5px 25px rgba(36, 209, 186, 0.4); letter-spacing: 0.5px; transition: transform 0.2s;">
-      ▶ تشغيل الفخامة (رابط فقط)
-    </a>
-    
-    <p style="color: #484f58; font-size: 12px; margin-top: 25px; font-family: 'Courier New', monospace; letter-spacing: 1px;">
-      [ 0 IMAGES • 0 FILES • 100% PURE CODE ]
-    </p>
-  </div>
-  <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ADF11&center=true&vCenter=true&random=true&width=550&lines=Welcome+to+my+GitHub+Profile!;My+Location%3A+127.0.0.0;I+Don%E2%80%99t+Trust+Words%2C+I+Trust+Actions.;404%3A+Social+Life+Not+Found.)](https://git.io/typing-svg)
+
+<br>
+
+### 🌐 My Links
+
+[![Website 1](https://img.shields.io/badge/Website-1ADF11?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_1_URL)
+[![Website 2](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_2_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wickstudio)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
+
+[![My Coffee](https://img.shields.io/badge/My%20Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](YOUR_COFFEE_URL)
+
+<br>
+
+### 📊 GitHub Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=wickstudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/wickstudio)
+[![GitHub Followers](https://img.shields.io/github/followers/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/wickstudio?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/wickstudio?tab=repositories)
+
+<br>
+
+<img src="YOUR_IMAGE_URL" width="100%" alt="Profile Banner">
+
 </div>
