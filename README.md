@@ -5,8 +5,8 @@
 
 ### 🌐 MY LINKS
 
-[![Website 1](https://img.shields.io/badge/Website_1-1ADF11?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_1_URL)
-[![Website 2](https://img.shields.io/badge/Website_2-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_2_URL)
+[![Website 1](https://img.shields.io/badge/Website_1-1ADF11?style=for-the-badge&logo=googlechrome&logoColor=white)](bynawaf.xyz)
+[![Website 2](https://img.shields.io/badge/Ticket-logs-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](ticket-bynawaf.xyz)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/By-iNawaf)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
