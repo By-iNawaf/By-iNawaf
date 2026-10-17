@@ -21,9 +21,6 @@
 <a href="https://discord.com/users/732540761295421480">
   <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="https://ko-fi.com/inawaf87">
-  <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-8D1F1F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee">
-</a>
 
 <br><br>
 
