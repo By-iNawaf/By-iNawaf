@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/By-iNawaf">
-  <img src="https://img.shields.io/badge/GitHub-By_iNawaf-24d1ba?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=bcbcbc" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-By_iNawaf-24d1ba?style=for-the-badge&logo=github&logoColor=16537e&labelColor=bcbcbc" alt="GitHub" />
 </a>
 <a href="https://discord.com/users/732540761295421480">
-  <img src="https://img.shields.io/badge/Discord-Contact_Me-24d1ba?style=for-the-badge&logo=discord&logoColor=00FF00&labelColor=bcbcbc" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-Contact_Me-24d1ba?style=for-the-badge&logo=discord&logoColor=16537e&labelColor=bcbcbc" alt="Discord" />
 </a>
 
 <br/><br/>
