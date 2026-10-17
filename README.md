@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/TICKET%20LOGS-8D1F1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ticket Logs">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/By-iNawaf">
   <img src="https://img.shields.io/badge/GITHUB-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
