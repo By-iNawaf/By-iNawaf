@@ -1,0 +1,8 @@
+{"public_repos": 7, "repos": [
+{"name":"Discord-Rules-Agreement-Bot","description":"بوت ديسكورد مخصص لعرض قوانين السيرفر بطريقة تفاعلية وأنيقة، مع زر \"موافقة\" يمنح العضو رتبة عند قبوله للقوانين","language":"JavaScript","stargazers_count":3,"forks_count":1,"fork":false,"pushed_at":"2026-01-01"},
+{"name":"Discord-Word-Game-Bot","description":"بوت ديسكورد تفاعلي ممتع مبني باستخدام Discord.js يقدم لعبة كلمات تتطلب سرعة وذكاء","language":"JavaScript","stargazers_count":3,"forks_count":1,"fork":false,"pushed_at":"2026-01-01"},
+{"name":"Voice-Channel-Bots","description":"بوتات متعددة تدخل قنوات صوتية في Discord تلقائيًا وتعرض حالة الاتصال ومدة التشغيل","language":"Python","stargazers_count":1,"forks_count":0,"fork":false,"pushed_at":"2026-01-01"},
+{"name":"khawater-bot","description":"بوت ديسكورد يرسل خواطر يومية ومقتطفات تلهم العقل وتنعش الروح","language":"Python","stargazers_count":1,"forks_count":0,"fork":false,"pushed_at":"2026-01-01"},
+{"name":"quran-bot","description":"بوت القرآن الكريم – استمع لأعذب التلاوات داخل ديسكورد بجودة عالية وبدون تشويش","language":"JavaScript","stargazers_count":1,"forks_count":0,"fork":false,"pushed_at":"2026-01-01"},
+{"name":"By-iNawaf","description":"","language":null,"stargazers_count":1,"forks_count":0,"fork":false,"pushed_at":"2026-01-01"}
+]}
