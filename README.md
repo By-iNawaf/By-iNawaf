@@ -4,26 +4,26 @@
 
 <br>
 
-### 🌐 My Links
+### 🌐 MY LINKS
 
-[![Website 1](https://img.shields.io/badge/Website-1ADF11?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_1_URL)
-[![Website 2](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_2_URL)
+[![Website 1](https://img.shields.io/badge/Website_1-1ADF11?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_1_URL)
+[![Website 2](https://img.shields.io/badge/Website_2-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_2_URL)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wickstudio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/By-iNawaf)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
 
-[![My Coffee](https://img.shields.io/badge/My%20Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](YOUR_COFFEE_URL)
+[![My Coffee](https://img.shields.io/badge/My_Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](YOUR_COFFEE_URL)
 
 <br>
 
-### GitHub Stats
+### 📊 GITHUB STATS
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wickstudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/By-iNawaf)
-[![GitHub Followers](https://img.shields.io/github/followers/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/By-iNawaf?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/By-iNawaf?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=By-iNawaf&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/By-iNawaf)
+[![GitHub Followers](https://img.shields.io/github/followers/By-iNawaf?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/By-iNawaf?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/By-iNawaf?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/By-iNawaf?tab=repositories)
 
 <br>
 
-<img src="https://ibb.co/whQKgSV7" width="100%" alt="Profile Banner">
+<img src="https://i.ibb.co/whQKgSV7/image.jpg" width="100%" alt="Profile Banner">
 
 </div>
