@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/github/stars/By-iNawaf?style=for-the-badge&logo=github&color=8D1F1F&labelColor=242424&label=STARS" alt="GitHub Stars">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://media2.giphy.com/media/FeQTx9j1YbNqc0GWjf/giphy.gif?cid=9b38fe91lyzf49ys8mkf01rqhkru7ghb7ompptlei3va3tvt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180" alt="Profile GIF">
 
