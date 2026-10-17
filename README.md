@@ -24,6 +24,6 @@
 
 <br>
 
-<img src="https://i.ibb.co/whQKgSV7/image.jpg" width="100%" alt="Profile Banner">
+<img src="[https://i.ibb.co/whQKgSV7/image.jpg](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnJ4aHAyNnBibGFpMmhhNW9iaGl0Y2k5b2gyZHpzODRjNGRvOTBudyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/XNm38SZTsMce8KuvtD/giphy.gif)" width="100%" alt="Profile Banner">
 
 </div>
