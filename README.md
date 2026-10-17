@@ -9,9 +9,9 @@
 [![Website 2](https://img.shields.io/badge/Ticket-logs-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](ticket-bynawaf.xyz)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/By-iNawaf)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/732540761295421480)
 
-[![My Coffee](https://img.shields.io/badge/My_Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](YOUR_COFFEE_URL)
+[![My Coffee](https://img.shields.io/badge/My_Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://ko-fi.com/inawaf87)
 
 <br>
 
