@@ -1,28 +1,55 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D1F1F&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub+Profile!;My+Location%3A+127.0.0.0;I+Don%E2%80%99t+Trust+Words%2C+I+Trust+Actions.;404%3A+Social+Life+Not+Found.)](https://git.io/typing-svg)
-<br>
-
-### 🌐 MY LINKS
-
-[![Website 1](https://img.shields.io/badge/Website_1-1ADF11?style=for-the-badge&logo=googlechrome&logoColor=white)](bynawaf.xyz)
-[![Website 2](https://img.shields.io/badge/Ticket-logs-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](ticket-bynawaf.xyz)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/By-iNawaf)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/732540761295421480)
-
-[![My Coffee](https://img.shields.io/badge/My_Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://ko-fi.com/inawaf87)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D1F1F&center=true&vCenter=true&random=true&width=550&lines=Welcome+to+my+GitHub+Profile!;My+Location%3A+127.0.0.0;I+Don%E2%80%99t+Trust+Words%2C+I+Trust+Actions.;404%3A+Social+Life+Not+Found.)](https://git.io/typing-svg)
 
 <br>
 
-### 📊 GITHUB STATS
+<img src="https://img.shields.io/badge/━━━━━━━━━━-8D1F1F?style=flat-square" width="180">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=By-iNawaf&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/By-iNawaf)
-[![GitHub Followers](https://img.shields.io/github/followers/By-iNawaf?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/By-iNawaf?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/By-iNawaf?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/By-iNawaf?tab=repositories)
+<h3>🌐 MY LINKS</h3>
+
+<a href="https://bynawaf.xyz">
+  <img src="https://img.shields.io/badge/WEBSITE-8D1F1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+<a href="https://ticket-bynawaf.xyz">
+  <img src="https://img.shields.io/badge/TICKET%20LOGS-8D1F1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ticket Logs">
+</a>
+
+<br><br>
+
+<a href="https://github.com/By-iNawaf">
+  <img src="https://img.shields.io/badge/GITHUB-242424?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://discord.com/users/732540761295421480">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://ko-fi.com/inawaf87">
+  <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-8D1F1F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━-8D1F1F?style=flat-square" width="180">
+
+<h3>📊 GITHUB STATS</h3>
+
+<img src="https://komarev.com/ghpvc/?username=By-iNawaf&style=for-the-badge&color=8D1F1F&label=PROFILE%20VIEWS" alt="Profile Views">
+
+<br><br>
+
+<a href="https://github.com/By-iNawaf?tab=followers">
+  <img src="https://img.shields.io/github/followers/By-iNawaf?style=for-the-badge&logo=github&color=8D1F1F&labelColor=242424&label=FOLLOWERS" alt="GitHub Followers">
+</a>
+<a href="https://github.com/By-iNawaf?tab=repositories">
+  <img src="https://img.shields.io/github/stars/By-iNawaf?style=for-the-badge&logo=github&color=8D1F1F&labelColor=242424&label=STARS" alt="GitHub Stars">
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnJ4aHAyNnBibGFpMmhhNW9iaGl0Y2k5b2gyZHpzODRjNGRvOTBudyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/XNm38SZTsMce8KuvtD/giphy.gif" width="180" alt="Profile GIF">
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnJ4aHAyNnBibGFpMmhhNW9iaGl0Y2k5b2gyZHpzODRjNGRvOTBudyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/XNm38SZTsMce8KuvtD/giphy.gif" width="20%" alt="Profile Banner">
+<sub>© By-iNawaf • Built with code, not promises.</sub>
 
 </div>
