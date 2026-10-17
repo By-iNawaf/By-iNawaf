@@ -9,7 +9,7 @@
 <a href="https://bynawaf.xyz">
   <img src="https://img.shields.io/badge/WEBSITE-8D1F1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
-<a href="https://ticket-bynawaf.xyz">
+<a href="https://ticket.bynawaf.xyz">
   <img src="https://img.shields.io/badge/TICKET%20LOGS-8D1F1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ticket Logs">
 </a>
 
