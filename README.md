@@ -24,6 +24,6 @@
 
 <br>
 
-<img src="[MBS](https://ibb.co/whQKgSV7)" width="100%" alt="Profile Banner">
+<img src="https://ibb.co/whQKgSV7" width="100%" alt="Profile Banner">
 
 </div>
