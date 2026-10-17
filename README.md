@@ -18,10 +18,6 @@
 <br/>
 
 <!--PROJECTS:START-->
-<a href="https://github.com/By-iNawaf/Discord-Rules-Agreement-Bot"><img src="/project-1.svg" width="82%" alt="Discord-Rules-Agreement-Bot"/></a><br/>
-<a href="https://github.com/By-iNawaf/Discord-Word-Game-Bot"><img src="/project-2.svg" width="82%" alt="Discord-Word-Game-Bot"/></a><br/>
-<a href="https://github.com/By-iNawaf/Voice-Channel-Bots"><img src="/project-3.svg" width="82%" alt="Voice-Channel-Bots"/></a><br/>
-<a href="https://github.com/By-iNawaf/khawater-bot"><img src="/project-4.svg" width="82%" alt="khawater-bot"/></a><br/>
 <a href="https://github.com/By-iNawaf/quran-bot"><img src="/project-5.svg" width="82%" alt="quran-bot"/></a><br/>
 <!--PROJECTS:END-->
 
