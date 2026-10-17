@@ -16,11 +16,11 @@
 
 <br>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wickstudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/wickstudio)
-[![GitHub Followers](https://img.shields.io/github/followers/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/wickstudio?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/wickstudio?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=wickstudio&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/By-iNawaf)
+[![GitHub Followers](https://img.shields.io/github/followers/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS)](https://github.com/By-iNawaf?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/wickstudio?logo=github&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=STARS)](https://github.com/By-iNawaf?tab=repositories)
 
 <br>
 
