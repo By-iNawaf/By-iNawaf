@@ -4,7 +4,6 @@
 
 <br>
 
-
 <h3>🌐 MY LINKS</h3>
 
 <a href="https://bynawaf.xyz">
@@ -29,10 +28,6 @@
 <br><br>
 
 <h3>📊 GITHUB STATS</h3>
-
-<img src="https://komarev.com/ghpvc/?username=By-iNawaf&style=for-the-badge&color=8D1F1F&label=PROFILE%20VIEWS" alt="Profile Views">
-
-<br><br>
 
 <a href="https://github.com/By-iNawaf?tab=followers">
   <img src="https://img.shields.io/github/followers/By-iNawaf?style=for-the-badge&logo=github&color=8D1F1F&labelColor=242424&label=FOLLOWERS" alt="GitHub Followers">
