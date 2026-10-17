@@ -4,7 +4,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━-8D1F1F?style=flat-square" width="180">
 
 <h3>🌐 MY LINKS</h3>
 
@@ -28,8 +27,6 @@
 </a>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━-8D1F1F?style=flat-square" width="180">
 
 <h3>📊 GITHUB STATS</h3>
 
