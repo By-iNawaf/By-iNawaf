@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="bynawaf.svg" alt="By-iNawaf" width="100%">
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8D1F1F&center=true&vCenter=true&random=true&width=550&lines=Welcome+to+my+GitHub+Profile!;My+Location%3A+127.0.0.0;I+Don%E2%80%99t+Trust+Words%2C+I+Trust+Actions.;404%3A+Social+Life+Not+Found.)](https://git.io/typing-svg)
 
 <br>
