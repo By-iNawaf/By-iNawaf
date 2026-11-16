@@ -10,7 +10,7 @@
 
 <h3>🌐 MY LINKS</h3>
 
-<a href="https://bynawaf.xyz">
+<a href="https://vault.bynawaf.xyz">
   <img src="https://img.shields.io/badge/WEBSITE-8D1F1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 <a href="https://ticket.bynawaf.xyz">
